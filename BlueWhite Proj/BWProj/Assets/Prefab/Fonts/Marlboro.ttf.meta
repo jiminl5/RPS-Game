@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 921d17ab7f106eb49aa2caedc5ea0c7f
+timeCreated: 1484695351
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marlboro
+  fontNames:
+  - Marlboro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
